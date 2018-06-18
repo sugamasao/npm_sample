@@ -1,4 +1,4 @@
-class Sample {
+export class NpmSample {
     constructor(message) {
         this.message = message;
     }
