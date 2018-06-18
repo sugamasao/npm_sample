@@ -1,0 +1,11 @@
+{
+  "name": "npm_sample",
+  "version": "1.0.0",
+  "description": "npm_sample",
+  "main": "src/sample.js",
+  "files": [
+    "src"
+  ],
+  "author": "sugamasao",
+  "license": "MIT"
+}
